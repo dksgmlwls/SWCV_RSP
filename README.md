@@ -1,5 +1,4 @@
-# SWCV_RSP
-[SW중심대학 공동 AI 경진대회 2023 - SWCV]RSP
+# [SW중심대학 공동 AI 경진대회 2023 - SWCV]RSP
 
 ‼️환경설정‼️
 1. apt update
